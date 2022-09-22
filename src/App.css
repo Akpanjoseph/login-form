@@ -1,0 +1,9 @@
+#container{
+  background-image: url(./img/bg.png);
+  background-position: cover;
+  z-index: 100px;
+}
+#main-container{
+  background-color: hsl(0, 100%, 74%);
+  z-index:50px ;
+}
